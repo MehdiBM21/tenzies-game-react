@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+}
+body{
+  background-color: rgba(11, 36, 52, 1);
+  width:100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
